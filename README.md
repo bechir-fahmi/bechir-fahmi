@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @bechir-fahmi
-- 👀 I’m interested in mobile developer
-- 🌱 I’m currently learning learn gaming developer
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Full-stack Developer 
+- 🌱 I’m currently learning DevOps and Infrastructure Automation.
 - 📫 How to reach me bachirfahmi5@gmail.com
 
 <!---
