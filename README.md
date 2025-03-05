@@ -9,7 +9,11 @@ bechir-fahmi/bechir-fahmi is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi 👋, I'm bachir fahmi</h1>
-<h3 align="center">Full Stack Developer</h3>
+<!--- <h3 align="center">Full Stack Developer</h3> --->
+<p align="center">
+  <a href="https://github.com/bechir-fahmi/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20Developer;%20Angular%20%7C%20Node.js%20%7C%20ASP.NET%20Core%20Expert;%202%2B%20Years%20of%20Coding%20Experience;%20Always%20Learning%20and%20Growing&font=Fira%20Code&center=true&width=600&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+</p>
 
 <p align="left">
     <img
