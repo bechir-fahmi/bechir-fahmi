@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 <!--- <h3 align="center">Full Stack Developer</h3> --->
 <p align="center">
   <a href="https://github.com/bechir-fahmi/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20Developer;%20Angular%20%7C%20JAVA%20Node.js%20%7C%20ASP.NET%20Core%20Expert;%202%2B%20Years%20of%20Coding%20Experience;%20Always%20Learning%20and%20Growing&font=Fira%20Code&center=true&width=600&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20Developer;%20Angular%20%7C%20JAVA%20%7CNode.js%20%7C%20ASP.NET%20Core%20Expert;%202%2B%20Years%20of%20Coding%20Experience;%20Always%20Learning%20and%20Growing&font=Fira%20Code&center=true&width=600&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 <p align="left">
@@ -110,6 +110,11 @@ You can click the Preview link to take a look at your changes.
         <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"
             alt="nginx" width="40" height="40" />
+    </a>
+    <a href="https://www.java.com" target="_blank" rel="noreferrer">
+        <img
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"
+          alt="java" width="40" height="40" />
     </a>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
         <img
